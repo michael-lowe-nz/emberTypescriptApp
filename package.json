@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/michael-lowe-nz/emberTypescriptApp/issues"
   },
-  "homepage": "https://github.com/michael-lowe-nz/emberTypescriptApp#readme"
+  "homepage": "https://github.com/michael-lowe-nz/emberTypescriptApp#readme",
+  "devDependencies": {
+    "ts-node": "^2.0.0",
+    "tslint": "^4.4.1",
+    "typescript": "^2.1.5"
+  }
 }
