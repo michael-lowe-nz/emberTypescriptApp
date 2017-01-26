@@ -17,7 +17,9 @@
     "url": "https://github.com/michael-lowe-nz/emberTypescriptApp/issues"
   },
   "homepage": "https://github.com/michael-lowe-nz/emberTypescriptApp#readme",
+  "dependencies": {},
   "devDependencies": {
+    "@types/node": "^7.0.4",
     "ts-node": "^2.0.0",
     "tslint": "^4.4.1",
     "typescript": "^2.1.5"
